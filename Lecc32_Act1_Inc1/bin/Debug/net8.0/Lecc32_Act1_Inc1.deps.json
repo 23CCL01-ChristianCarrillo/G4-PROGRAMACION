@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lecc32_Act1_Inc1/1.0.0": {
+        "runtime": {
+          "Lecc32_Act1_Inc1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecc32_Act1_Inc1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
